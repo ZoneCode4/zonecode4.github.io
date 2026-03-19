@@ -1,0 +1,28 @@
+alternate: ZoneCode4
+image_server: "https://picsum.photos/1200/800"
+modules:
+  player: false
+
+# 简约主题优化
+favicon: /img/favicon.png
+avatar: /img/avatar.png
+
+# 隐藏多余的侧边栏组件
+aside:
+  card_announcement: false
+  card_webinfo: false
+
+# 暗色模式自动切换
+darkmode:
+  enable: true
+  autoChangeMode: 1
+
+# 代码块简约风格
+code_blocks:
+  theme: light
+  macStyle: false
+
+# 页脚简化
+footer:
+  since: 2025
+  custom_text: Keep it simple.
